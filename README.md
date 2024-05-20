@@ -1,6 +1,10 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
+# DATE : 14.02.2024
+# NAME : LATHISH KANNA.N
+# REGISTER NUMBER:212222230073
 # AIM :
 To write a C program to implement a symbol table.
+## To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
@@ -64,10 +68,9 @@ if(flag==0)
 printf("\nSymbol Not Found"); 
 getch();
 }
-
 ```
 # OUTPUT
-![image](https://github.com/mathes6112004/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/119477782/04016447-3e91-4bcc-9c41-1e5f1294b7c3)
+![image](https://github.com/deesk13/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/150927063/fefe0334-a46f-47d7-b2a7-090b516441e1)
 
 # RESULT
- The program to implement a symbol table is executed and the output is verified.
+### The program to implement a symbol table is executed and the output is verified.
